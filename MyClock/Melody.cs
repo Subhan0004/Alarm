@@ -13,6 +13,7 @@ namespace MyClock
             SoundPlayer player1 = new SoundPlayer("sound1.wav");
             player1.Play();
         }
+
         public static void Melody1_stop()
         {
             SoundPlayer player1 = new SoundPlayer("sound1.wav");
